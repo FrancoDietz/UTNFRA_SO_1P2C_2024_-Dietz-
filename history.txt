@@ -1,0 +1,318 @@
+1   mkdir repogit
+2   ls
+3   sudo mkdir repogit
+4   ls
+5   cd repogit
+6   git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+7   sudo git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+8   ls
+9   sudo git clone https://github.com/FrancoDietz/UTNFRA_SO_1P2C_2024_-Dietz-
+10  ls
+11  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+12  ~/.bashrc && history -a
+13  sudo ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+14  ~/.bashrc && history -a
+15  sudo ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+16  ls -l
+17  cd UTN-FRA_SO_Examenes/
+18  ls -l
+19  cd 202410
+20  ls -l
+21  bash script_Precondicion.sh
+22  sudo bash script_Precondicion.sh
+23  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+24  ~/.bashrc && history -a
+25  sudo ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+26  sudo  ~/.bashrc && history -a
+27  sudo history -a
+28  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+29  ls -l
+30  cd ..
+31  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+32  cd ..
+33  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+34  clear
+35  cd $HOME
+36  pwd
+37  ls -l
+38  sudo rm -rf repogit
+39  ls -l
+40  mkdir repogit
+41  ls -l
+42  cd repogit
+43  cd ..
+44  ls -l
+45  sudo rm -rf repogit
+46  ls -l
+47  cd osboxes
+48  ls -l
+49  clear
+50  cd repogit
+51  git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+52  git clone https://github.com/FrancoDietz/UTNFRA_SO_1P2C_2024_-Dietz-
+53  ls -l
+54  cd UTN-FRA_SO_Examenes/
+55  ls -l
+56  cd 202410
+57  ls -l
+58  script_Precondicion.sh
+59  ~/.bashrc && history -a
+60  sudo script_Precondicion.sh ~/.bashrc && history -a
+61  script_Precondicion.sh ~/.bashrc && history -a
+62  cd ..
+63  cd ..
+64  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+65  sudo ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+66  ls -l
+67  cd UTN-FRA_SO_Examenes/
+68  LS -L
+69  ls -l
+70  cd 202410
+71  ls -l
+72  bash script_Precondicion.sh
+73  source ~/.bashrc && history -a
+74  ls -l
+75  bash script_Precondicion.sh
+76  sudo bash ~/.bashrc && history -a
+77  sudo ~/.bashrc && history -a
+78  bash ~/.bashrc && history -a
+79  bash ~/.bashrc && history -a
+80  bash /.bashrc && history -a
+81  whoami
+82  sudo whoami
+83  pwd
+84  cd ..
+85  pwd
+86  cd ..
+87  ls -l
+88  ls -l
+89  rm -rf repogit
+90  ls -l
+91  mkdir repogit
+92  ls -l
+93  cd repogit
+94  cd ..
+95  git clone home/root/repogit https://github.com/upszot/UTN-FRA_SO_Examenes.git
+96  cd ..
+97  git clone home/root/repogit https://github.com/upszot/UTN-FRA_SO_Examenes.git
+98  cd root
+99  sudo cd root
+100 cd /root
+101 sudo cd/root
+102 cd root
+103 sudo su
+104 cd home
+105 ls
+106 cd osboxes
+107 ls -l
+108 cd repogit
+109 ls -l
+110 git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+111 git clone https://github.com/FrancoDietz/UTNFRA_SO_1P2C_2024_-Dietz-
+112 ls -l
+113 cd UTN-FRA_SO_Examenes/
+114 CD 202410
+115 cd 202410
+116 ls -l
+117 cd ..
+118 cd ..
+119 ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+120 source ~/.bashrc && history -a
+121 ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+122 ls -l
+123 cd UTNFRA_SO_1P2C_2024_-Dietz-/
+124 LS -L
+125 ls -l
+126 cd ..
+127 tree UTNFRA_SO_1P2C_2024_-Dietz-/
+128 bash Punto_a.sh
+129 bash Punto_A.sh
+130 ls -l
+131 cd UTNFRA_SO_1P2C_2024_-Dietz-/
+132 ls -l
+133 cd RTA_SCRIPT_Examen_20241006/
+134 ls -l
+135 nano Punto_A.sh
+136 ls -l
+137 bash Punto_A.sh
+138 tree
+139 ls -l
+140 rm -rf Examenes_UTN/
+141 ls -l
+142 nano Punto_A.sh
+143 sudo mv Punto_A.sh /
+144 cd /
+145 ls -l
+146 ls /
+147 sudo mv Punto_A.sh /repogit/UTNFRA_SO_1P2C_2024_-Dietz-/RTA_SCRIPT_Examen_20241006
+148 sudo mv Punto_A.sh ~/repogit/UTNFRA_SO_1P2C_2024_-Dietz-/RTA_SCRIPT_Examen_20241006
+149 ls -l
+150 cd ~/repogit/UTNFRA_SO_1P2C_2024_-Dietz-/RTA_SCRIPT_Examen_20241006
+151 ls -l
+152 nano Punto_A.sh
+153 clear
+154 cd ..
+155 cd ..
+156 cd ..
+157 ls -l
+158 cd repogit
+159 ls -l
+160 UTNFRA_SO_1P2C_2024_-Dietz-/
+161 cd UTNFRA_SO_1P2C_2024_-Dietz-/
+162 ls -l
+163 cd RTA_SCRIPT_Examen_20241006/
+164 ls -l
+165 nano Punto_A.sh
+166 bash Punto_A.sh
+167 nano Punto_A.sh
+168 bash Punto_A.sh
+169 cd /
+170 tree
+171 clear
+172 ls -l
+173 cd Examenes-UTN/
+174 tree
+175 ls
+176 cd ..
+177 cd ~/repogit/UTNFRA_SO_1P2C_2024_-Dietz-/RTA_SCRIPT_Examen_20241006
+178 ls -l
+179 nano Punto_A.sh
+180 ls
+181 lsblk
+182 fdisk -l
+183 sudo fdisk -l
+184 cd repogit
+185 ls
+186 UTNFRA_SO_1P2C_2024_-Dietz-/
+187 ls
+188 cd UTNFRA_SO_1P2C_2024_-Dietz-/
+189 ls
+190 RTA_SCRIPT_Examen_20241006/
+191 cd RTA_SCRIPT_Examen_20241006/
+192 ls
+193 ls -l
+194 nano Punto_B.sh
+195 bash Punto_B.sh
+196 ls -l
+197 bash Punto_B.sh
+198 lsblk
+199 nano Punto_B.sh
+200 man fdisk
+201 nano Punto_B.sh
+202 man w
+203 man fdisk
+204 nano Punto_B.sh
+205 bash Punto_B.sh
+206 ls -l
+207 bash Punto_B.sh
+208 nano Punto_B.sh
+209 bash Punto_B.sh
+210 lsblk
+211 nano Punto_B.sh
+212 clear
+213 nano Punto_B.sh
+214 bash Punto_A.sh
+215 bash Punto_B.sh
+216 lsblk
+217 ls -l
+218 clear
+219 ls -l
+220 nano Punto_C.sh
+221 nano Punto_B.sh
+222 nano Punto_C.sh
+223 nano Punto_A.sh
+224 history -a
+225 history
+226 history -a
+227 nano Punto
+228  history -a
+229  ls -l
+230  history -a
+231  ls
+232  cd repogit
+233  ls -l
+234  cd UTNFRA_SO_1P2C_2024_-Dietz-/
+235  ls -l
+236  RTA_SCRIPT_Examen_20241006/
+237  cd RTA_SCRIPT_Examen_20241006/
+238  ls -l
+239  nano Punto_D.sh
+240  cd ..
+241  cat RTA_ARCHIVOS_Examen_20241006/
+242  cd RTA_ARCHIVOS_Examen_20241006/
+243  ls -l
+244  cd ..
+245  ls -l
+246  cd UTN-FRA_SO_Examenes/
+247  ls -l
+248  cd ..
+249  cd UTNFRA_SO_1P2C_2024_-Dietz-/
+250  clear
+251  ls -l
+252  RTA_SCRIPT_Examen_20241006/
+253  cd RTA_SCRIPT_Examen_20241006/
+254  ls -l
+255  nano Punto_E.sh
+256  ls -l
+257  nano Punto_F.sh
+258  las -l
+259  ls -l
+260  cd ..
+261  ls -l
+262  cd ..
+263  ls -l
+264  cd UTN-FRA_SO_Examenes/
+265  ls -l
+266  nano README.md
+267  cd ..
+268  ls -l
+269  cd UTNFRA_SO_1P2C_2024_-Dietz-/
+270  ls -l
+271  cd ..
+272  ls -l
+273  cd ..
+274  git clone https://github.com/FrancoDietz/UTNFRA_SO_1P2C_2024_-Dietz-.git
+275  ls -l
+276  cd UTNFRA_SO_1P2C_2024_-Dietz-/
+277  LS -L
+278  ls -l
+279  cd ..
+280  rm -rf UTNFRA_SO_1P2C_2024_-Dietz-/
+281  cd repogit
+282  ls -l
+283  cd UTNFRA_SO_1P2C_2024_-Dietz-/
+284  ls -l
+285  cd RTA_SCRIPT_Examen_20241006/
+286  ls -l
+287  touch README.txt
+288  ls -l
+289  nano README.txt
+290  history -a
+291  ls -l
+292  cd ..
+293  ls -l
+294  cd RTA_ARCHIVOS_Examen_20241006/
+295  ls -l
+296  cd ..
+297  ls -l
+298  cd RTA_SCRIPT_Examen_20241006/
+299  ls -
+300  ls -l
+301  cd ..
+302  ls -l
+303  pwd
+304  cd ..
+305  ls -l
+306  ls -la
+307  history -a
+308  cd osboxes
+309  cd repogit
+310  ls -l
+311  cd RTA_SCRIPT_Examen_20241006/
+312  cd UTNFRA_SO_1P2C_2024_-Dietz-/
+313  ls -l
+314  cd RTA_SCRIPT_Examen_20241006/
+315  ls -l
+316  touch history.txt
+317  ls -l
+318  history
